@@ -6,8 +6,22 @@
     color: white;
 }
 
+.navbar-brand{
+    color: white;
+}
+
 nav{
     color: white;
+}
+
+footer{
+    color: white;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    background-color: black;
+    margin-top: 30px;
+    padding-top: 20px;
 }
 
 .navbar-brand{
@@ -23,14 +37,14 @@ nav{
 }
 .col-box4{
     margin-top: 40px;
-    background-color: grey;
-    margin-left: 150px;
+    background-color: white;
+    margin-left: 180px;
     margin-right: -50px
 }
 
 .col-box5{
     margin-top: 40px;
-    background-color: grey;
+    background-color: white;
     margin-left: 40px;
     height: 100px;
     width: 500px;
@@ -49,7 +63,11 @@ nav{
 }
 
 .form-group{
-    margin-top: 40px;
-    width: 50%;
-    margin-left: 40px;
+    margin-top: 10px;
+    width: 100%
+
+}
+
+.form-check{
+    margin-top: 10px;
 }
